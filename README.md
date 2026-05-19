@@ -1,3 +1,9 @@
+## Landing Page
+<img width="1920" height="5438" alt="screencapture-127-0-0-1-8000-2026-05-19-17_05_57" src="https://github.com/user-attachments/assets/d607a99e-5353-4735-a56d-e12314550988" />
+## Chatboot
+<img width="698" height="887" alt="Screenshot 2026-05-19 122620" src="https://github.com/user-attachments/assets/f15987b9-1331-40bf-9967-776d85329b87" />
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
